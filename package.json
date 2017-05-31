@@ -1,0 +1,31 @@
+{
+  "name": "srvrjs",
+  "version": "1.0.0",
+  "description": "a simple server",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Florian Krusch",
+  "license": "MIT",
+  "devDependencies": {
+    "colors": "^1.1.2"
+  },
+  "dependencies": {
+    "colors": "^0.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurainooni/SrvrJS.git"
+  },
+  "keywords": [
+    "Server"
+  ],
+  "bugs": {
+    "url": "https://github.com/kurainooni/SrvrJS/issues"
+  },
+  "homepage": "https://github.com/kurainooni/SrvrJS#readme"
+}
